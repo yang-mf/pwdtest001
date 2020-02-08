@@ -21,6 +21,7 @@ class TestController extends Controller
     //test2
     public function test2()
     {
-
+        $key='120';
+        
     }
 }
